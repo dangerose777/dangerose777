@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Languages & Technologies:</h3>
+<h2 align="left">✒️ Languages & Technologies:</h2>
 
 ###
 
@@ -35,5 +35,13 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dangerose777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">📓 Courses:</h2>
+
+###
+
+<p align="left">- Introduction to Cybersecurity<br>- Cybersecurity Essentials<br>- JavaScript Essentials 1<br>- NDG Linux Unhatched</p>
 
 ###
