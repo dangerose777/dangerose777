@@ -42,9 +42,7 @@
 
 ###
 
-- <a name="https://github.com/dangerose777/dangerose777/blob/main/courses/Introduction_to_Cybersecurity.pdf">Introduction to Cybersecurity</a>
-- <a name="https://github.com/dangerose777/dangerose777/blob/main/courses/Cybersecurity_Essentials.pdf">Cybersecurity Essentials</a>
-- <a name="https://github.com/dangerose777/dangerose777/blob/main/courses/Partner-_JavaScript_Essentials_1_-JSE.pdf">JavaScript Essentials 1</a>
-- <a name="https://github.com/dangerose777/dangerose777/blob/main/courses/Partner-_NDG_Linux_Unhatched.pdf">NDG Linux Unhatched</a>
-
-###
+- [Introduction to Cybersecurity](https://github.com/dangerose777/dangerose777/blob/main/courses/Introduction_to_Cybersecurity.pdf)
+- [Cybersecurity Essentials](https://github.com/dangerose777/dangerose777/blob/main/courses/Cybersecurity_Essentials.pdf)
+- [JavaScript Essentials 1](https://github.com/dangerose777/dangerose777/blob/main/courses/Partner-_JavaScript_Essentials_1_-JSE.pdf)
+- [NDG Linux Unhatched](https://github.com/dangerose777/dangerose777/blob/main/courses/Partner-_NDG_Linux_Unhatched.pdf)
