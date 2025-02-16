@@ -43,5 +43,9 @@
 ###
 
 <p align="left">- Introduction to Cybersecurity<br>- Cybersecurity Essentials<br>- JavaScript Essentials 1<br>- NDG Linux Unhatched</p>
+- [Introduction to Cybersecurity](https://github.com/dangerose777/dangerose777/blob/main/courses/Introduction_to_Cybersecurity.pdf)
+- [Cybersecurity Essentials](https://github.com/dangerose777/dangerose777/blob/main/courses/Cybersecurity_Essentials.pdf)
+- [JavaScript Essentials 1](https://github.com/dangerose777/dangerose777/blob/main/courses/Partner-_JavaScript_Essentials_1_-JSE.pdf)
+- [NDG Linux Unhatched](https://github.com/dangerose777/dangerose777/blob/main/courses/Partner-_NDG_Linux_Unhatched.pdf)
 
 ###
