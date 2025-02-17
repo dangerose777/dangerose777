@@ -32,9 +32,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dangerose777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dangerose777&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
 
