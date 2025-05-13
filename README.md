@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently learning 🦀</p>
+<p align="left">Currently learning</p>
 
 ###
 
@@ -11,8 +11,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
@@ -26,8 +24,6 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="40"/>
   <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
 </div>
