@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently learning</p>
+<p align="left">Hi, I am making projects and learning new technologies at the same time.</p>
 
 ###
 
