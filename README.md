@@ -4,7 +4,7 @@ I have few larger projects planned, marked as <b>"Main Projects"</b> (but for no
 I'm making a game series called "Hot House", but it's only for my friends. I also plan to make and release a tool called "Get a Jumpscare!" on Steam.
 
 ## 🛠️ Main Projects
-- 🚢 [DNG Cerberus (RC ship)](https://github.com/dangerose777/rc-ship-cerberus-nezumi)
+- 🚢 [DNG Cerberus (RC ship)](https://github.com/dangerose777/rc-ship-dng-cerberus)
 
 ## ⚙️ Languages and Tools
 <img src="https://skillicons.dev/icons?i=clion,cpp,c,unity,cs,visualstudio,py,linux,mysql,ps,react,vite,vscode" height="40"/>
