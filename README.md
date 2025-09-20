@@ -1,6 +1,6 @@
 # Hello Everyone 👋
 My name is <b>Adam Sztorc</b> and I am currently learning to become an <b>Embedded Systems Engineer</b> / <b>IoT Developer</b>.  <br/>
-I have several larger projects planned, marked as <b>"Main Projects"</b> (but for now there is only one).  <br/>
+I have few larger projects planned, marked as <b>"Main Projects"</b> (but for now there is only one).  <br/>
 I'm making a game series called "Hot House", but it's only for my friends. I also plan to make and release a tool called "Get a Jumpscare!" on Steam.
 
 ## 🛠️ Main Projects
