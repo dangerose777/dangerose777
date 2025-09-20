@@ -1,16 +1,19 @@
 # Hello Everyone 👋
-My name is <b>Adam Sztorc</b> and I am currently learning to become an <b>Embedded Systems Engineer</b>.
+My name is <b>Adam Sztorc</b> and I am currently learning to become an <b>Embedded Systems Engineer</b> / <b>IoT Developer</b>.  <br/>
+I have several larger projects planned, marked as <b>"Main Projects"</b> (but for now there is only one).  <br/>
+I'm making a game series called "Hot House", but it's only for my friends. I also plan to make and release a tool called "Get a Jumpscare!" on Steam.
+
+## 🛠️ Main Projects
+- 🚢 [DNG Cerberus Nezumi (RC ship)](https://github.com/dangerose777/rc-ship-cerberus-nezumi)
+
+## ⚙️ Languages and Tools
+<img src="https://skillicons.dev/icons?i=clion,cpp,c,unity,cs,visualstudio,py,linux,mysql,ps,react,vite,vscode" height="40"/>
+<!-- arduino,raspberrypi -->
 
 ![dangerose777's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangerose777&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-## 🛠️ Main Projects
-- 🚢 [DNG Cerberus Nezumi (RC ship)]()
-- 🎮 [Game series "Hot House" (Private project for friends)]()
-- 👻 ["Get a jumpscare!" (Desktop app)]()
-
-## ⚙️ Tech Stack
-<img src="https://skillicons.dev/icons?i=clion,cpp,c,unity,cs,py,linux,mysql,ps,react,vite" height="40"/>
-<!-- arduino,raspberrypi -->
-
 ## 🎓 Courses
-I'm gonna add it later 🥺🫶🏻
+- [CISCO Partner: NDG Linux Unhatched](courses/Partner-_NDG_Linux_Unhatched_certificate.pdf)
+- [CISCO Partner: JavaScript Essentials 1 (JSE)](courses/Partner-_JavaScript_Essentials_1_-JSE-_certificate.pdf)
+- [CISCO Cybersecurity Essentials](courses/Cybersecurity_Essentials_certificate.pdf)
+- [CISCO Introduction to Cybersecurity](courses/Introduction_to_Cybersecurity_certificate.pdf)
