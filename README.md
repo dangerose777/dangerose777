@@ -25,14 +25,25 @@ I'm making a game series called "Hot House", but it's only for my friends. I als
 <details>
   <summary><h3>💼 Works</h3></summary>
   <p>x</p>
+  <!-- <li>👨‍💻 <b>Name</b></li>
+  📆 Date  </br>
+  📍 <b>Where</b> | Where -->
 </details>
 
 <details>
-  <summary><h3>? Bootcamps</h3></summary>
+  <summary><h3>🚀 Bootcamps</h3></summary>
   <p>x</p>
+  <!-- <li>👨‍💻 <b>Name</b></li>
+  📆 Date  </br>
+  📍 <b>Where</b> | Where -->
 </details>
 
 <details>
   <summary><h3>📚 Courses</h3></summary>
-  <p>x</p>
+  <ul>
+    <li><a href="courses/Partner-_NDG_Linux_Unhatched_certificate.pdf">CISCO Partner: NDG Linux Unhatched</a></li>
+    <li><a href="courses/Partner-_JavaScript_Essentials_1_-JSE-_certificate.pdf">CISCO Partner: JavaScript Essentials 1 (JSE)</a></li>
+    <li><a href="courses/Cybersecurity_Essentials_certificate.pdf">CISCO Cybersecurity Essentials</a></li>
+    <li><a href="courses/Introduction_to_Cybersecurity_certificate.pdf">CISCO Introduction to Cybersecurity</a></li>
+  </ul>
 </details>
